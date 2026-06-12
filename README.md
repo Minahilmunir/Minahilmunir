@@ -1,4 +1,4 @@
-# 👋 Salam, I'm Minahil Munir!
+# I'm Minahil Munir!
 
 I am a **Computer Science Honors Student** and an **AI Developer & Full-Stack Engineer** who loves building intelligent systems that solve real-world problems[cite: 2, 5]. From designing multi-agent workflows in healthcare to engineering production-ready mobile and web applications, I focus on writing scalable, clean code with impactful user experiences[cite: 2, 5].
 
